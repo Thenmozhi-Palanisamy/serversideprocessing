@@ -30,6 +30,7 @@ Publish the website in the given URL.
 Publish the website in the given URL.
 
 ## PROGRAM :
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -146,6 +147,7 @@ urlpatterns = [
     path('',views.volumecalculation,name="volumeofacuboidroot")
 
 ## OUTPUT:
+```
 ![output](.//server.png)
 
 ### Home Page:
